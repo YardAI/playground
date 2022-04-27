@@ -5,4 +5,3 @@ Interactive visualization of neural networks written in JavaScript and Python! R
 To run the visualizator locally:
   - **Clone the project:**
     `$ git clone git@github.com:YardAI/playground.git`
-   

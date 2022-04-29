@@ -3,16 +3,16 @@ Interactive visualization of neural networks written in JavaScript and Python! R
 
 ## Development
 To run the visualizator locally:
-  - *Clone this repository:* <br />
-    `$ git clone git@github.com:YardAI/playground.git`
-    
-  - *Install dependencies:* <br />
-    `$ npm install`
-   
-  - *Run!* <br />
-    `$ npm run dev`
-    
+  - *Clone this repository:*
+    ```
+    $ git clone git@github.com:YardAI/playground.git
+    ```
+  - *Install dependencies:*
+    ```
+    $ yarn
+    ```
+  - *Run!*
+    ```
+    $ yarn dev
+    ```
 Then navigate to [localhost:5000](https://localhost:5000/)!
-
-
-# Baghie README ro baedan minevisam /:

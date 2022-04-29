@@ -16,3 +16,9 @@ To run the visualizator locally:
     $ yarn dev
     ```
 Then navigate to [localhost:5000](https://localhost:5000/)!
+
+## License
+The software is available under the [MIT License](https://github.com/YardAI/playground/blob/main/LICENSE).
+
+## Contact
+If you have question about the project, you can express it in the [issues](https://github.com/YardAI/playground/issues) or [contact me](mailto:d0t0n10n@pm.me).
